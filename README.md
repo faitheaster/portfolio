@@ -36,7 +36,7 @@
  Solution: Built a production scheduling model to evenly distribute workloads.  
  Results: Reduced lead times by 40%, improving order fulfillment.  
 
-![Production Scheduling](/assets/img/Production.jpg)  
+![Production Scheduling](/assets/img/Production.png)  
 
 
 ### Healthcare - Predictive Appointment Scheduling  
