@@ -1,19 +1,11 @@
-# Data Analyst & Business Intelligence Specialist
-
-#### Technical Skills: Python, SQL, Power BI, Tableau, Excel, Data Analytics, Machine Learning, Business Intelligence
-
-## Education
-- B.S., Mechanical Engineering  
-- M.S., Data Analytics  
+# Data Analyst
 
 ## Experience  
-Data Analyst | Business Intelligence Consultant  
+**Data Analyst | Business Intelligence Consultant**
 - Automated reporting for Small to Medium Businesses, reducing manual reporting time by 10+ hours per week.  
 - Optimized production scheduling, reducing manufacturing delays by 40%.  
 - Built financial forecasting models, identifying 80% of late payers before default.  
 - Developed predictive scheduling for clinics, cutting patient wait times by 25%.  
-
----
 
 ## Projects  
 
@@ -26,7 +18,6 @@ Data Analyst | Business Intelligence Consultant  
 
 ![Power BI Dashboard](/assets/img/bi_dashboard.jpeg)  
 
----
 
 ### Supply Chain & Inventory Management  
 [ Case Study: Demand Forecasting Model](#)  
@@ -37,7 +28,6 @@ Data Analyst | Business Intelligence Consultant  
 
 ![Inventory Optimization](/assets/img/inventory_forecast.jpeg)  
 
----
 
 ### Production & Operations Optimization
 [ Case Study: Reducing Bottlenecks in Manufacturing](#)  
@@ -48,7 +38,6 @@ Data Analyst | Business Intelligence Consultant  
 
 ![Production Scheduling](/assets/img/production_optimization.jpeg)  
 
----
 
 ### Healthcare - Predictive Appointment Scheduling  
 [ Case Study: Cutting Patient Wait Times](#)  
@@ -59,7 +48,6 @@ Data Analyst | Business Intelligence Consultant  
 
 ![Healthcare Scheduling](/assets/img/healthcare_analytics.jpeg)  
 
----
 
 ### Banking & Financial Services - Late Payment Prediction 
 [ Case Study: Predicting Late Payments](#)  
@@ -70,13 +58,17 @@ Data Analyst | Business Intelligence Consultant  
 
 ![Financial Analytics](/assets/img/financial_forecast.jpeg)   
 
----
+#### Technical Skills: Python, SQL, Power BI, Tableau, Excel, Data Analytics, Machine Learning, Business Intelligence
+
+## Education
+- B.S., Mechanical Engineering  
+- M.S., Data Analytics  
 
 ## Publications & Blog  
 - [Data Analytics Blog](https://medium.com/@faith)  
 - [LinkedIn Articles](https://linkedin.com/in/faith)  
 
----
+
 
 ## Contact & Portfolio  
  Email: lyttico24@gmail.com  
