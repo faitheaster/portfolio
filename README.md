@@ -26,7 +26,7 @@
  Solution: Developed a predictive inventory model using Python.  
  Results: Reduced stockouts by 30% and excess inventory by 20%.  
 
-![Inventory Optimization](/assets/img/InventoryMGMT.png)  
+![Inventory Optimization](/assets/img/Inventory.png)  
 
 
 ### Production & Operations Optimization
@@ -36,7 +36,7 @@
  Solution: Built a production scheduling model to evenly distribute workloads.  
  Results: Reduced lead times by 40%, improving order fulfillment.  
 
-![Production Scheduling](/assets/img/ProductionSchedule.jpg)  
+![Production Scheduling](/assets/img/Production.jpg)  
 
 
 ### Healthcare - Predictive Appointment Scheduling  
@@ -46,7 +46,7 @@
  Solution: Built a machine-learning model to predict patient demand.  
  Results: Reduced wait times by 25% while optimizing staff allocation.  
 
-![Healthcare Scheduling](/assets/img/healthcare_scheduling.jpg)  
+![Healthcare Scheduling](/assets/img/Health.png)  
 
 
 ### Banking & Financial Services - Late Payment Prediction 
@@ -56,7 +56,7 @@
  Solution: Developed a machine-learning model to predict which clients would pay late.  
  Results: Identified 80% of late payers before missed payments.  
 
-![Financial Analytics](/assets/img/financial_analytics.jpg)   
+![Financial Analytics](/assets/img/Finance.png)   
 
 #### Technical Skills: Python, SQL, Power BI, Tableau, Excel, Data Analytics, Machine Learning, Business Intelligence
 
