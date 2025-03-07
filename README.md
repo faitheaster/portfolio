@@ -70,7 +70,6 @@
 
 
 
-## Contact & Portfolio  
+## Contact 
  Email: lyttico24@gmail.com  
- LinkedIn: [www.linkedin.com/in/faith-vongai-easter](www.linkedin.com/in/faith-vongai-easter)  
- GitHub: [https://github.com/faitheaster](https://github.com/faitheaster)  
+
