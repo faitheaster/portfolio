@@ -1,5 +1,32 @@
-title: Faith Easter
-logo: /assets/img/profile.png
-description: Welcome to my portfolio!
-show_downloads: true
-theme: jekyll-theme-minimal
+#title: Faith Easter
+#logo: /assets/img/profile.png
+#description: Welcome to my portfolio!
+#show_downloads: true
+#theme: jekyll-theme-minimal
+
+# Site Author
+author:
+  name             : "Faith Easter"
+  avatar           : /assets/img/profile.png
+  bio              : "Data Analyst"
+  location         : "Dallas, TX USA"
+  employer         :
+  pubmed           : 
+  googlescholar    : 
+  email            : 
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "faitheaster"
+  google_plus      :
+  keybase          :
+  instagram        : 
+  impactstory      : 
+  lastfm           :
+  linkedin         : "faith-vongai-easter"
+  medium           :  
