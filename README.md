@@ -58,7 +58,8 @@
 
 ![Financial Analytics](/assets/img/Finance.png)   
 
-#### Technical Skills: Python, SQL, Power BI, Tableau, Excel, Data Analytics, Machine Learning, Business Intelligence
+## Technical Skills
+Python | SQL | Power BI | Tableau | Excel | Data Analytics | Machine Learning | Business Intelligence
 
 ## Education
 - B.S., Mechanical Engineering  
