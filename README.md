@@ -62,8 +62,8 @@
 Python | SQL | Power BI | Tableau | Excel | Data Analytics | Machine Learning | Business Intelligence
 
 ## Education
-- B.S., Mechanical Engineering  
-- M.S., Data Analytics  
+- B.Sc, Mechanical Engineering  
+- M.Sc, Data Analytics  
 
 ## Publications & Blog  
 - [Data Analytics Blog](https://medium.com/@faith)  
