@@ -72,6 +72,6 @@ Python | SQL | Power BI | Tableau | Excel | Data Analytics | Machine Learning | 
 
 
 ## Contact 
- Email: lyttico24@gmail.com  
-LinkedIn: [www.linkedin.com/in/faith-vongai-easter](www.linkedin.com/in/faith-vongai-easter)  
-GitHub: [https://github.com/faitheaster](https://github.com/faitheaster)  
+- Email: lyttico24@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/faith-vongai-easter/)
+- [GitHub](https://github.com/faitheaster)  
